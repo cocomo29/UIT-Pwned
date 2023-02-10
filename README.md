@@ -4,7 +4,7 @@ Hey everyone, this was my semester project for DCCN. For the project, I had to u
 This project replicates the functionality of [haveibeenpwned.com](https://haveibeenpwned.com) by checking if a student's roll number has been breached or not (breached in this context is having used a weak password for your UIT portal i.e 12345678 or 123456789). It uses a Flask web server to check the status of a student's roll number and tells if password was breached by [uitPortalLogin.py](uitPortalLogin.py).
 
 # Walkthrough 🚶‍♀️
-After running the local server, this home page is displayed. You can enter your roll number and press search to check if your account has been breached or not.
+After running the local server ([main.py](main.py)), this home page is displayed. You can enter your roll number and press search to check if your account has been breached or not.
 
 <p align="center"><img src="https://i.imgur.com/HSGPryh.png"></p> </br>
 
