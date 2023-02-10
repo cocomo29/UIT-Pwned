@@ -1,0 +1,265 @@
+19b-001-ce,Tuba  Ahmed,123456789
+19b-005-ce,Syed Jalal Uddin Hussain Naqvi  ,12345678
+19b-006-ce,azlina  ,123456789
+19b-007-ce,Areeba naeem  ,123456789
+19b-011-ce,muhammad usman ali abbasi  ,123456789
+19b-013-ce,muhammad noman  ,12345678
+19b-015-ce,Khadija  ,123456789
+19b-017-ce,MUHAMMAD AREEB QAISER  ,123456789
+19b-021-ce,Muhammad Omer Ali Khan  ,123456789
+19b-023-ce,Nameer Iqbal Ansari  ,123456789
+19b-030-ce,Muhammad Ahad   ,123456789
+19b-032-ce,Zainab Waqar  ,123456789
+19b-040-ce,fatima ehtesham  ,123456789
+19b-046-ce,MUHAMMAD ASAD  ,123456789
+19b-050-ce,Muhammad Huzaifa  ,123456789
+19b-051-ce,Syed Muhammad Zain Bin Faisal  ,123456789
+19b-053-ce,Syeda Rafia Fizza Naveed  ,123456789
+19b-054-ce,Muhammad Huzaifa Maqbool   ,123456789
+19b-056-ce,Anushay Khan   ,123456789
+19b-059-ce,Abdul Wahab  ,123456789
+19b-064-ce,shahan ali  ,12345678
+19b-002-cs,Moiz Ahmed Soomro  ,123456789
+19b-004-cs,Misha Shahab  ,12345678
+19b-010-cs,Dabeer Ahmed  ,123456789
+19b-011-cs,Abdul Rafay  ,123456789
+19b-016-cs,ASHAR ULLAH KHAN  ,123456789
+19b-018-cs,Shaheer ali   ,123456789
+19b-020-cs,Muhammad Sameer Javed Khan  ,123456789
+19b-027-cs,Rubaha Shaikh  ,123456789
+19b-028-cs,MOIZ AHMED KHAN  ,123456789
+19b-037-cs,Muhammad Dawar Shamim  ,12345678
+19b-040-cs,Faris shah  ,123456789
+19b-043-cs,Saad Mirza  ,123456789
+19b-052-cs,Aliza Shakeel  ,123456789
+19b-053-cs,Mustafa Kashif  ,123456789
+19b-057-cs,Abdul Moiz Hussain  ,123456789
+19b-067-cs,Muhammad Aman  ,123456789
+19b-072-cs,Usman Ahmed Khan  ,123456789
+19b-076-cs,Aliza shafiq  ,123456789
+19b-082-cs,Abdul Rehman  ,123456789
+19b-087-cs,Laiba Usman  ,123456789
+19b-100-cs,Muhammad Amash Waqar  ,123456789
+19b-108-cs,MUHAMMAD TAHA SHAIKH  ,123456789
+19b-110-cs,Muhammad Jazib Ali  ,123456789
+19b-117-cs,Syed Hamza Qadri  ,123456789
+19b-127-cs,Muhammad Umer  ,123456789
+19b-128-cs,Shehroz Ali Khan  ,123456789
+19b-002-ee,ROAIL ASAD KHAN  ,12345678
+19b-008-ee,Maaz Siddiqui  ,123456789
+19b-010-ee,zaid ali  ,123456789
+19b-011-ee,Taufiq Muhammad Siddiqui     ,123456789
+19b-020-ee,ZainALi  ,123456789
+19b-021-ee,syed muhammad anas tirmizi  ,123456789
+19b-025-ee,faraz khan  ,123456789
+19b-034-ee,Muneeb Khanzada  ,123456789
+19b-036-ee,MOHAMMAD FARHAN UR RAHMAN MALIK  ,123456789
+19b-037-ee,arika qureshi  ,123456789
+19b-044-ee,MUHAMMAD MUDASSIR KHAN ROHILLA  ,12345678
+19b-047-ee,Abdul Rafay  ,123456789
+19b-049-ee,Syed Basit Abbass  ,123456789
+19b-052-ee,Nabeehah Syed  ,123456789
+19b-060-ee,Khuzaima Umair Siddiqui  ,123456789
+19b-071-ee,Fariha Haris  ,123456789
+19b-072-ee,Syed Musab Ullah Hussaini  ,123456789
+19b-073-ee,Muhammad Ahsan Khan  ,123456789
+19b-076-ee,Syed Shayan Nadeem  ,123456789
+19b-081-ee,Arshia Fatima  ,123456789
+19b-002-se,Shaheer Ali  ,123456789
+19b-007-se,Abdullah Wasim  ,123456789
+19b-011-se,Adnan Samad  ,12345678
+19b-013-se,Syed Rafay Jamal  ,123456789
+19b-015-se,Yasir Ullah Khan  ,123456789
+19b-017-se,Alisha hameed  ,123456789
+19b-022-se,Bilal shoukat  ,123456789
+19b-026-se,MUHAMMAD MOHSIN ALAM  ,12345678
+19b-036-se,Mustafa  Hasnain,123456789
+19b-044-se,Ibad ur Rehman   ,123456789
+19b-054-se,Muhammad Zain ul Abdeen   ,12345678
+19b-060-se,okasha sameer  ,123456789
+19b-061-se,sheheryar muhammad  ,123456789
+19b-070-se,Areesha  ,123456789
+19b-074-se,MUHIB ARIF  ,123456789
+19b-076-se,Muhammad Sufyan  ,123456789
+19b-082-se,Haris Shah  ,123456789
+19b-084-se,Fahad farooq  ,123456789
+19b-095-se,Marium Irfan  ,123456789
+19b-110-se,Bahadur Khan  ,123456789
+19b-113-se,Muhammad Hamza Khan  ,123456789
+19b-117-se,Muhammad Ahmed Raza  ,123456789
+19b-123-se,Muhammad Anas Kamran  ,123456789
+19b-125-se,Farzan Ul Haq Siddiqui  ,123456789
+20b-001-ce,bahram shafi  ,123456789
+20b-002-ce,Dua Zehra  ,123456789
+20b-003-ce,Syed Moiz Ali Shah  ,123456789
+20b-005-ce,syed zain  ,123456789
+20b-008-ce,SYED BILAL SHAKEEL  ,123456789
+20b-014-ce,Muhammad Adil Azhar  ,123456789
+20b-019-ce,Syeda Umama Kazmi  ,12345678
+20b-023-ce,MUHAMMAD FAYZ TAUSEEF  ,123456789
+20b-024-ce,Mahnoor Tariq  ,123456789
+20b-025-ce,Muhammad Taha Siddiqui  ,123456789
+20b-030-ce,DURRENAYAB SAEED  ,123456789
+20b-034-ce,Ayesha Ahsan  ,123456789
+20b-036-ce,Ammar Saleem  ,123456789
+20b-041-ce,Ahmed ur Rehman  ,12345678
+20b-045-ce,MUHAMMAD HAMMAD ABID  ,123456789
+20b-001-cs,Afham Ahmed  ,123456789
+20b-002-cs,syed shehryar hussain  ,123456789
+20b-006-cs,AMEEMA  ,123456789
+20b-009-cs,ASHAR HABIB  ,123456789
+20b-013-cs,WARDAH RAFAT  ,123456789
+20b-014-cs,SAMEED ALI  ,123456789
+20b-017-cs,Syed Ali Fatmi  ,123456789
+20b-018-cs,SYED MUHAMMAD ATIR ALAM  ,123456789
+20b-022-cs,Rameel Siddiqui  ,123456789
+20b-023-cs,Abdullah Yaqoob  ,123456789
+20b-024-cs,Muhammad waqar  ,123456789
+20b-025-cs,MUHAMMAD MAAZ FAISAL  ,123456789
+20b-030-cs,Noor Ul Ain  ,123456789
+20b-039-cs,Muhammad Huzaifa Khan  ,123456789
+20b-042-cs,Muhammad Muhib Bhatti  ,123456789
+20b-044-cs,TALAL AHMED SIDDIQI  ,123456789
+20b-047-cs,Syed Muhammad Barkat Ali  ,123456789
+20b-049-cs,Ifra Mahmood  ,123456789
+20b-050-cs,FATIMA NADEEM  ,123456789
+20b-051-cs,Syed Hashir Ali Hussaini  ,123456789
+20b-058-cs,MUHAMMAD SAAD  ,123456789
+20b-059-cs,Nabia Hassan Sabzwari  ,123456789
+20b-061-cs,Ammad Ali  ,123456789
+20b-062-cs,KAZIM RAZA RIZVI  ,123456789
+20b-063-cs,Sayed Mohammad Abdullah  ,123456789
+20b-065-cs,Muhammad Talha  ,123456789
+20b-067-cs,Muhammad Zarrar Ahmed   ,123456789
+20b-080-cs,Muhammad Shammas Saeed Qazi  ,123456789
+20b-085-cs,Abdul Rafay  ,123456789
+20b-086-cs,Huda Nasir  ,123456789
+20b-089-cs,sidra waseem  ,123456789
+20b-092-cs,DANIIYAL AHMED  ,123456789
+20b-096-cs,Asad Soomro  ,123456789
+20b-105-cs,faiqa talib  ,123456789
+20b-108-cs,Muhammad Aleem Mobin  ,123456789
+20b-109-cs,Muhammad Osama  ,123456789
+20b-112-cs,aliza azam  ,123456789
+20b-113-cs,Hafiz Noman Javed  ,123456789
+20b-114-cs,Hamza Ali Shaikh  ,123456789
+20b-117-cs,Syed Muhammad Werad Shah  ,123456789
+20b-120-cs,Fiza Masooma Munawer Ali  ,12345678
+20b-121-cs,Taimoor Zaman  ,12345678
+20b-123-cs,Muhammad Fardeen tariq  ,123456789
+20b-125-cs,ABDUR RAFAY  ,123456789
+20b-126-cs,Abdul Ali Farooqi   ,123456789
+20b-004-ee,MUHAMMAD KAMAL KHIZAR  ,123456789
+20b-010-ee,Saman Fatimah  ,123456789
+20b-011-ee,Aina Adil  ,123456789
+20b-014-ee,Muhammad Sameet Gul  ,123456789
+20b-015-ee,Ali Shahraj  ,123456789
+20b-019-ee,Abdul Aziz  ,123456789
+20b-020-ee,bilal salman  ,123456789
+20b-001-se,Arham Ahmed  ,123456789
+20b-002-se,Muhammad Talha Iqbal  ,123456789
+20b-003-se,Muhammad Saad Anjum   ,123456789
+20b-012-se,Usama khan  ,123456789
+20b-013-se,MOHAMMAD SAIM SIDDIQUI  ,123456789
+20b-014-se,muhammad hamza  ,123456789
+20b-020-se,ADEEM RAHAT  ,123456789
+20b-023-se,areesha saleem  ,123456789
+20b-024-se,Syeda Zainab Raza  ,123456789
+20b-026-se,Naashit Ali  ,123456789
+20b-031-se,Muhammad Usman Ali  ,123456789
+20b-033-se,Syeda Rameen Ali  ,123456789
+20b-040-se,Asma Rafiq  ,123456789
+20b-043-se,Daniyal  Muhammad  ,123456789
+20b-048-se,MUHAMMAD MEHMOOD AHMED  ,123456789
+20b-053-se,Muhammad mairaj  ,123456789
+20b-059-se,MUHAMMAD JUNAID JAMSHED  ,123456789
+20b-060-se,Adeena Hussain  ,123456789
+20b-067-se,javeria athar  ,123456789
+20b-073-se,Khushi Murtaza  ,123456789
+20b-078-se,Shehroz Akhter  ,123456789
+20b-079-se,Rahema Siddiqui  ,123456789
+20b-083-se,Syed Muhammad Ali  ,123456789
+20b-084-se,SYED SHEHROZ ALI  ,123456789
+20b-085-se,SHAHZADI SAREENA HASSAN AZEEMI  ,123456789
+20b-091-se,MUHAMMAD HASSAN KHAN  ,123456789
+20b-093-se,HAMIDA KHULLAT  ,123456789
+20b-094-se,Syed Ibad Ur Rehman  ,123456789
+20b-096-se,hafiz syed omais ur rahman jafri  ,123456789
+20b-098-se,Jaffer Raza Askari  ,123456789
+20b-101-se,Hasan Abbas  ,123456789
+20b-105-se,Mohammad Bin Javed  ,123456789
+20b-112-se,Bilal Abdullah  ,12345678
+20b-114-se,Tehniyat Fatima  ,123456789
+20b-117-se,Taqi Mirza  ,123456789
+21b-010-ce,SYED MUHAMMAD BILAL  ,123456789
+21b-013-ce,Muhammad Wamiq  ,123456789
+21b-014-ce,Minahil Fatima  ,123456789
+21b-017-ce,Muhammad Hussain  ,123456789
+21b-021-ce,Syed Taha Imam Rizvi  ,123456789
+21b-029-ce,Ansab Ali Khan  ,123456789
+21b-030-ce,MIRZA ABDULLAH BAIG  ,123456789
+21b-034-ce,Muhammad Sufyan  ,123456789
+21b-046-ce,Muhammad Sami  ,123456789
+21b-047-ce,MUSAB KHAN  ,123456789
+21b-048-ce,Romesa khan  ,123456789
+21b-056-ce,Muhammad Tanzeel Alam Malik  ,123456789
+21b-074-ce,Laiba Adil  ,123456789
+21b-078-ce,Ehtisham Afzal  ,123456789
+21b-079-ce,Syed Muhammad Hasan  ,123456789
+21b-089-ce,Muhammad Waleed Khan  ,123456789
+21b-090-ce,MUHAMMAD HUZAIFA ALI ARSHAD  ,123456789
+21b-095-ce,Hasan Ahmed Abbasi  ,123456789
+21b-109-ce,TUBA SOHAIL  ,123456789
+21b-111-ce,Muhammad Hamza  ,123456789
+21b-115-ce,owais ali mustafa  ,123456789
+21b-119-ce,iqra hussain  ,123456789
+21b-129-ce,Muhammad Osama  ,123456789
+21b-130-ce,Mohammad Ilyas Khan  ,123456789
+21b-004-cs,Owais Ahmed Khan  ,123456789
+21b-008-cs,Sameer Saqib  ,123456789
+21b-042-cs,Fatima Yousfi  ,123456789
+21b-043-cs,Muhammad Ahsan  ,123456789
+21b-045-cs,Saalik hussain zaidi  ,123456789
+21b-048-cs,Asra Muneeb  ,123456789
+21b-059-cs,Muhammad Shahrukh Hassan  ,123456789
+21b-064-cs,ABDULLAH  ,123456789
+21b-066-cs,Kainat Ghani  ,123456789
+21b-069-cs,Arham Athar  ,123456789
+21b-073-cs,Muhammad Absar Ul Haque   ,123456789
+21b-078-cs,Shaheer Saad  ,123456789
+21b-080-cs,Imad   ,12345678
+21b-092-cs,Muhammad Omer Junaid Butt  ,123456789
+21b-098-cs,syed ahsan ali  ,123456789
+21b-099-cs,Faseeh Shahzad Memon  ,123456789
+21b-100-cs,Ahmed Ibrahim  ,123456789
+21b-126-cs,FIZZA BHAGAT  ,123456789
+21b-003-ee,saim ali  ,123456789
+21b-006-ee,Tabish bin munawar  ,123456789
+21b-007-ee,Owais Ahmed Khan  ,123456789
+21b-023-ee,hubba shabbir butt  ,123456789
+21b-037-ee,Muhammad Umer Khawer  ,123456789
+21b-038-ee,MUHAMMAD SHOAIB LODHI  ,123456789
+21b-039-ee,SYEDA AMNA IMAM  ,123456789
+21b-001-se,Ayesha Imam  ,123456789
+21b-003-se,AHSAN SAJID  ,123456789
+21b-005-se,Hafiza Ramsha Akhtar  ,123456789
+21b-009-se,Anas Masood  ,12345678
+21b-010-se,Mahreen khan  ,123456789
+21b-016-se,Syed daniyal hashmi  ,123456789
+21b-028-se,Syed Usman Mujeeb  ,123456789
+21b-051-se,Bilal Malick  ,123456789
+21b-052-se,Syed Owais Ali Shah  ,123456789
+21b-054-se,HAFSA SHOAIB  ,123456789
+21b-057-se,Syed Muhammad Hasnain Raza  ,123456789
+21b-061-se,Aqib Ali Ghumro  ,123456789
+21b-063-se,MUHAMMAD ADIL KHAN   ,123456789
+21b-064-se,Muhammad Rafay Imran  ,123456789
+21b-066-se,Saad Ather Ali  ,123456789
+21b-069-se,Waleed Ahmad  ,123456789
+21b-071-se,Hania Binte Khurram  ,123456789
+21b-073-se,Ahmed Hasan  ,123456789
+21b-083-se,Abdul Aziz  ,123456789
+21b-090-se,Muhammad Mahad Hadan  ,123456789
+21b-093-se,Aliza Rafique  ,123456789
+21b-112-se,Adeel Ur Rehman  ,123456789
+21b-115-se,Ali Shariyat  Zaidi  ,123456789
