@@ -1,0 +1,15 @@
+{% extends "_layout.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+        <span>{{search}}</span>
+</br>
+        {% if peppo == "sad" %}
+                <img src="https://risibank.fr/cache/medias/0/17/1751/175140/full.gif" alt="sad peppo" width="200px">
+        {% elif peppo == "happy" %}
+                <img src="https://emoji.discadia.com/emojis/4dd8a4f5-3370-4bd9-a0da-80cf73077f35.GIF" alt="happy peppo" width="200px">
+        {% else %}
+                <img src="https://emoji.discadia.com/emojis/81cade39-925f-439d-a527-5c6c71c3d475.GIF" alt="peppo" width="200px">
+        {% endif %}
+{% endblock %}
