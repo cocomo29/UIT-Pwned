@@ -23,13 +23,13 @@ Before you get started with this project, make sure that you have the followings
 
 * Python 3: The project is written in Python 3 and requires this version to run properly. You can download the latest version from the official Python website [here](https://www.python.org/downloads/).
 
-* pip: This is the package installer for Python. It is used to install the required libraries for this project. If you have Python 3 installed, you should have pip as well. You can check if pip is installed by running pip -v in your terminal.
+* pip: This is the package installer for Python. It is used to install the required libraries for this project. If you have Python 3 installed, you should have pip as well. You can check if pip is installed by running `pip -v` in your terminal/cmd.
 
 * Shell: You will need a shell environment to run the shell scripts in this project. Most commonly used shells are Bash (MacOS, Linux), and CMD (Windows). Make sure you have one installed on your machine.
 
 ## Installing 💾
 
-1. Clone the repository to your local machine.
+1. Download/Clone the repository to your local machine.
  `git clone https://github.com/cocomo29/UIT-Pwned.git`
 2. Open terminal in the root directory of the cloned folder.
 3. Run the following command to install the required libraries:
